@@ -28,7 +28,7 @@ header{
     width:100%;
     text-align: center;
     color:white; 
-    font-size:min(4vw, 30px);
+    font-size:min(150%, 30px);
     font-family: "monospace";
 }
 
