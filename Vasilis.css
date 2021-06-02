@@ -74,6 +74,7 @@ height:inherit;
  width:97%;
  font-size:min(2vw, 15px);  
  height: 80%;
+overflow:scroll; 
 }
 
 .container3{
@@ -100,7 +101,7 @@ background-blend-mode: lighten;
     float:left;
     width:60%;
     background-color: rgba(230,230,255,0.85);background-blend-mode: lighten;
- overflow:scroll; 
+ 
      
 }
 
