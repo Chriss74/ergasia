@@ -33,7 +33,7 @@ header{
     width:100%;
     text-align: center;
     color:white; 
-    font-size:min(150%, 30px);
+    font-size:min(200%, 30px);
     font-family: "monospace";
 	min-width:430px;
     
@@ -71,7 +71,7 @@ height:inherit;
     text-align: right; 
     margin:auto; 
     padding: 1%;
-    font-size:min(3vw, 20px);  
+    font-size:min(100%, 20px);  
 }
 
 
@@ -80,7 +80,7 @@ height:inherit;
  padding: 1%;
  margin: 1%;
  width:97%;
- font-size:min(2vw, 15px);  
+ font-size:min(100%, 15px);  
  height: 80%;
 }
 
@@ -202,5 +202,5 @@ ol{
      
       font-weight:bold;
       text-align:center;
-      font-size:min(3vw, 20px);
+      font-size:min(150%, 20px);
   } 
