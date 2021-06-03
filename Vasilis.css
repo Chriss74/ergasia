@@ -2,6 +2,9 @@ body{
    
   width:100vw;
   height: 100vh;
+min-height:710px;
+min-width:430px;
+	
 
 }
 
