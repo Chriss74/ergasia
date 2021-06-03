@@ -34,7 +34,7 @@ header{
     color:white; 
     font-size:min(4vw, 30px);
     font-family: "monospace";
-	min-width:430px;
+	
     
 }
 
@@ -70,7 +70,7 @@ height:inherit;
     text-align: right; 
     margin:auto; 
     padding: 1%;
-    font-size:min(100%, 20px);  
+    font-size:min(2vw, 20px);  
 }
 
 
@@ -145,13 +145,13 @@ footer{
     text-align: center;
     color: white;
     background-color: black;
-    font-size:min(100%, 20px); 
+    font-size:min(2vw, 20px); 
 }
 nav{
     float:left;
     width:16%;
     text-align: center;
-    font-size:min(100%, 20px);  
+    font-size:min(3vw, 20px);  
 }
 
 
@@ -159,7 +159,7 @@ aside{
     float:left;
     width:16%;
     text-align: center;
-    font-size:min(100%, 20px);
+    font-size:min(3vw, 20px);
      
 }
 
@@ -201,5 +201,5 @@ ol{
      
       font-weight:bold;
       text-align:center;
-      font-size:min(150%, 20px);
+      font-size:min(3vw, 20px);
   } 
